@@ -3,7 +3,7 @@
 Weather app  website created as part of my formation.
 This will tell you the current conditions in a given city.
 It was made using:
-html5, sass,  API, json jquery and javascript.
+html5, sass,  API,  jquery and javascript.
 
 
 API:
