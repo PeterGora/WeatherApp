@@ -1,8 +1,8 @@
 # WeatherApp
 
 Weather app  website created as part of my formation.
-this will tell you the current conditions in a given city.
-It is using:
+This will tell you the current conditions in a given city.
+It was made using:
 html5, sass,  API, json jquery and javascript.
 
 
